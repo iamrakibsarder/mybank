@@ -1,0 +1,58 @@
+.main{
+    margin: 50px 0;
+}
+#login{
+    padding: 70px 30px;
+    margin: 50px 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+}
+#login-page{
+    display: block;
+}
+
+
+
+
+
+
+#dashboard{
+    display: none;
+}
+.box{
+    margin: 20px 40px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.box h1{
+    font-size: 45px;
+}
+.bg-01{
+    background-color: slateblue;
+}
+.bg-02{
+    background-color: lightsalmon;
+}
+.bg-03{
+    background-color: orange;
+}
+
+
+
+.bottomsection{
+    margin: 50px 0;
+}
+#deposit{
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+    margin: 20px 0;
+}
+#withdraw{
+    /* margin: 0 30px; */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+    margin: 20px 0;
+
+}
