@@ -4,6 +4,7 @@ const clickEnter = document.getElementById('btnSubmit');
             login.style.display = 'none';
             var dashboard = document.getElementById('dashboard');
             dashboard.style.display = 'block';
+            // document.getElementById('email').value = '';
 
         })
 
